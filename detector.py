@@ -53,6 +53,3 @@ while True:
 webcam.release()
 # destroy/close all windows
 cv2.destroyAllWindows()
-
-# code ran without errors
-print("Code Completed!")
