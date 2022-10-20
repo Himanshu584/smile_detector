@@ -40,7 +40,7 @@ while True:
                 cv2.putText(frame, "SMILING", (x,y+h+40), fontFace= cv2.FONT_HERSHEY_PLAIN, fontScale=2, color=(0,255,0))
 
         # display frame
-        cv2.imshow("Galvic Smile Detector", frame)
+        cv2.imshow("Smile Detector", frame)
         
         # Exit if 'SPACE-BAR' is pressed
         if keyboard.is_pressed(" "):
