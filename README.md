@@ -1,6 +1,13 @@
 # smile_detector
 To Clone repository use command :- `git clone https://github.com/Himanshu584/smile_detector`
 
+## DEMO VIDEO
+
+
+https://user-images.githubusercontent.com/70319246/197010279-662f729a-4370-4752-b31d-49edd0dd0422.mp4
+
+
+
 This is a simple AI Smile detection algorithm That returns a window and draws rectangle around the faces detected and also returns the word "SMILING" if the face is smiling.
 Though it requires proper lightning to detect the performance of the program is considerably good.
 
